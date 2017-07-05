@@ -1,0 +1,8 @@
+name: Pro-Lift
+main: cn.szzxol.pro.lift.Lift
+version: 1.0.0
+author: I_promise
+commands:
+   lift:
+      description: Pro-Lift插件命令
+      usage: /lift

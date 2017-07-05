@@ -1,0 +1,13 @@
+Version: 1.0.0
+
+Lift:
+    MaxDistance: 5
+    MaxHeight: 256
+        
+Block:
+    Base: 1
+    Floor: 5
+    
+Setting:
+    Speed: 10
+    LagProtect: 1
